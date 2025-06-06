@@ -1,1 +1,1 @@
-# medicine-details-project
+# medicine-details-project.
